@@ -1,0 +1,686 @@
+.A{
+font-family: 'Oswald', sans-serif;
+}
+.navbar {
+    color: #000000;
+}
+.welcome {
+    background-color: #1d1e1f;
+    height: 50rem;
+    display: flex;
+}
+.card{
+    width: 12rem;
+}
+.welcome__left{
+    background-color: #000000;
+    height: 40rem;
+    width: 40rem;
+    margin: 5rem 0 5rem 5rem;
+}
+.welcome__left h1{
+    color: goldenrod;
+    font-size: 4rem;
+    text-align: center;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    font-family: deceptibots;
+}
+.welcome__left p{
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1.2rem;
+    text-align: left;
+    padding-bottom: 2rem;
+
+}
+.welcome__right img{
+    width: 50rem;
+    height: 40rem;
+    margin: 5rem 0rem 5rem 0;
+
+   
+}
+.img_selector{
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.1)) , url("https://static.wixstatic.com/media/11062b_e914f76c7c604356a139184d95c6e8b0~mv2_d_5616_3744_s_4_2.jpg/v1/fit/w_924,h_520/11062b_e914f76c7c604356a139184d95c6e8b0~mv2_d_5616_3744_s_4_2.jpg") ;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size: cover;
+    width: 84.3rem;
+    height: 30rem;
+}
+.img_selector h1{
+    padding: 10rem 5rem 3rem 3rem;
+    font-size: 5rem;
+    color:white;
+    text-align: center;
+
+}
+.img_selector p{
+    color: white;
+    font-size: 3rem;
+    text-align: center;
+    
+}
+
+.choose {
+    background-color: #ffce76;
+    height: 150rem;
+    padding-top: 10rem;
+    
+}
+.choose_a {
+    display: flex;
+}
+.choose_a_left{
+    background-color: #000000;
+    height: 32.5rem;
+    width: 40rem;
+    margin: 1rem 0 5rem 5rem;
+
+}
+.choose_a_right {
+    width: 50 rem;
+    height: 40rem;
+    margin: 1rem 5rem 5rem 0;
+
+
+}
+.choose_a_left h1{
+    color: goldenrod;
+    font-size: 5rem;
+    text-align: center;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    font-family: 'Playfair Display', serif;
+}
+.choose_a_left p{
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1rem;
+    text-align: left;
+    padding-bottom: 2rem;
+
+}
+.choose_b {
+    display: flex;
+}
+.choose_b_left {
+    background-color: #000000;
+    height: 32.5rem;
+    width: 40rem;
+    margin: 1rem 0 5rem 5rem;
+
+}
+.choose_b_right {
+    width: 50 rem;
+    height: 40rem;
+    margin: 1rem 5rem 5rem 0;
+
+
+}
+.choose_b_left h1{
+    color: goldenrod;
+    font-size: 5rem;
+    text-align: center;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    font-family: 'Playfair Display', serif;
+}
+.choose_b_left p{
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1rem;
+    text-align: left;
+    padding-bottom: 2rem;
+
+}
+.choose_c {
+    display: flex;
+}
+.choose_c_left {
+    background-color: #000000;
+    height: 32.5rem;
+    width: 40rem;
+    margin: 1rem 0 5rem 5rem;
+
+}
+.choose_c_right {
+    width: 50 rem;
+    height: 40rem;
+    margin: 1rem 5rem 5rem 0;
+
+
+}
+.choose_c_left h1{
+    color: goldenrod;
+    font-size: 5rem;
+    text-align: center;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    font-family: 'Playfair Display', serif;
+}
+.choose_c_left p{
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1rem;
+    text-align: left;
+    padding-bottom: 2rem;
+
+}
+
+.abc{
+    background-color: #1d1e1f;
+    height: 70rem;
+}
+.map{
+    background-color:  #1d1e1f;
+    height: 60rem;
+}
+.bg-footer {
+    background-color: #333;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.container{
+    border-bottom: 1px solid white;
+    padding-bottom: 20px;
+    padding-top: 25px;
+    margin-bottom: 25px;
+}
+.grid-4{
+    color: white;
+    font-family: 'Open Sans',sans-serif,Arial;
+    font-size: 3rem;
+}
+.abc_firstrow{
+    display: flex;
+    padding: 5rem;
+    justify-content: space-between;
+
+}
+.card{
+    width: 15rem;
+}
+.card-footer{
+    text-align: center;
+    font-size: 1.5rem;
+    font-family: 'Playfair Display', serif;
+    font-weight: 3rem;
+
+}
+.abc_secondrow{
+    display: flex;
+    padding: 5rem;
+    justify-content: space-between;
+}
+.brand_heading h1{
+    color: goldenrod;
+    font-size: 5rem;
+    text-align: center;
+    padding-top: 5rem;
+    padding-bottom: 3rem;
+    font-family: 'Playfair Display', serif;
+
+}
+
+.contact_info {
+    display: flex;
+}
+.contact_info_left {
+    background-color: #000000;
+    height: 32.5rem;
+    width: 40rem;
+    margin: 3rem 0 5rem 5rem;
+
+}
+.contact_info_right {
+    width: 50 rem;
+    height: 40rem;
+    margin: 3rem 5rem 5rem 0;
+
+
+}
+.contact_info_left h1{
+    color: goldenrod;
+    font-size: 5rem;
+    text-align: center;
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+    font-family: 'Playfair Display', serif;
+
+}
+.contact_info_left p{
+    color: white;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 1rem;
+    text-align: center;
+    padding-bottom: 2rem;
+
+}
+.grid-2 {
+    color: white;
+    font-size: 1.5rem;
+    margin: 0 1rem 0 2rem;
+    font-family: 'Open Sans',sans-serif,Arial;
+}
+.grid-3 {
+    color: white;
+    font-family: 'Open Sans',sans-serif,Arial;
+    font-size: 1.5rem;
+    margin: 3rem 1rem 0 2rem;
+}
+.grid-5 {
+    color: white;
+    font-family: 'Open Sans',sans-serif,Arial;
+    font-size: 1rem;
+    margin: 1rem 1rem 0 1rem;
+}
+.app_icon{
+    display: flex;
+    justify-content: space-evenly;
+}
+.company{
+    display: flex;
+    justify-content: space-evenly;
+    border-bottom: 1px solid white;
+    margin-bottom: 25px;
+
+
+}
+.company_name {
+    color: white;
+    font-size: 3rem;
+    padding-top: 2rem;
+}
+.company_logo{
+    width: 10%;
+    height: 10%;
+}
+
+.base {
+    display: flex;
+    justify-content: space-evenly;
+}
+.base_left{
+    display: flex;
+
+}
+.base_left p{
+    color: white;
+}
+.about{
+    background-color: black;
+    height: 50rem;
+    width: 84.4rem;
+}
+.about_img {
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.1)) ,url("https://static.wixstatic.com/media/11062b_dc2e7114f07440c38495b3df44a165f9~mv2_d_5472_3648_s_4_2.jpg/v1/fit/w_924,h_520/11062b_dc2e7114f07440c38495b3df44a165f9~mv2_d_5472_3648_s_4_2.jpg") ;
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size: cover;
+    position: relative;
+    top: 5rem;
+    left: 4rem;
+    width: 75.3rem;
+    height: 35rem;
+ 
+}
+.about_img h1{
+    padding: 2rem 0 2rem 0;
+    color: white;
+    text-align: center;
+    font-size: 4rem;
+}
+.about_img p{
+    color: white;
+    text-align: center;
+    font-size: 2rem;
+    padding: 3rem ;
+    font-family: 'Bree Serif', serif;
+}
+.footer_links{
+    color: white;
+    text-decoration: none;
+    outline: none;
+}
+.container
+{
+  text-align: center;
+
+}
+.contact{
+  margin-bottom: 8rem;
+}
+.col{
+  padding: 3%;
+}
+.icon{
+  margin-bottom: 1rem;
+}
+h6
+{
+  font-size: 1rem;
+  color: #898989;
+}
+.inputrow
+{
+  padding: 0.5rem;
+}
+.contact-head-me
+{
+  color: #ff4c68;
+}
+.firstcol{
+  display: grid;
+  padding: 1rem;
+}
+.secondcol
+{
+  display: grid;
+  padding: 1rem;
+}
+.thirdcol{
+  display: grid;
+  padding: 1rem;
+}
+section.contact input
+{
+  padding: 0.5rem;
+}
+section.contact textarea
+{
+  padding: 0.5rem;
+}
+.button
+{
+  position: relative;
+  left: 42%;
+}
+.budget{
+    background-color: black;
+    height: 30rem;
+}
+.budget_row1{
+    padding-top: 5rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+.card-header{
+    text-align: center;
+    font-size: 2rem;
+    font-family: 'Anton', sans-serif;
+}
+.budget_heading{
+    padding: 2rem 0 2rem 0;
+    color: goldenrod;
+    text-align: center;
+    font-size: 5rem;
+}
+.style_row1{
+    padding-top: 5rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+.style{
+    background-color: black;
+    height: 50rem;
+}
+.Dealers{
+    background-color: black;
+    display: flex;
+    justify-content: space-evenly;
+    height: 40rem;
+    padding-top: 5rem;
+}
+.Dealers_h1{
+    background-color: black;
+    padding: 2rem 0 2rem 0;
+    color: goldenrod;
+    text-align: center;
+    font-size: 5rem;
+}
+.styleheader{
+    font-size: 2rem;
+    font-weight: 2rem;
+    font-family: 'Pacifico', cursive;
+}
+
+.team{
+    background-image: url(./web.jpeg);
+    height: 420rem;
+}
+.team_heading h1{
+    padding: 18rem 0 2rem 0;
+    color: #00587a;
+    text-align: center;
+    font-size: 5rem;
+    animation-duration: 2s;
+
+}
+.team_heading p{
+    padding: 1rem 0 2rem 0;
+    color: #00587a;
+    text-align: center;
+    font-size: 2rem;
+    animation-duration: 4s;
+
+}
+.social_medias{
+    text-align: center;
+    justify-content: space-evenly;
+}
+.social_medias a{
+    color:black;
+}
+.social_media a{
+    color: white;
+}
+.card1{
+    margin-top: 80rem;
+    width: 30rem;
+    left: 5rem;
+   
+}
+.card1 h1{
+    margin-top: 2rem;
+    font-size: 3rem;
+    text-align: center;
+}
+.card1 h4{
+    margin-top: 2rem;
+    text-align: center;
+}
+.card2 h1{
+    margin-top: 2rem;
+    font-size: 3rem;
+    text-align: center;
+}
+.card2 h4{
+    margin-top: 2rem;
+    text-align: center;
+}
+.card3 h1{
+    margin-top: 2rem;
+    font-size: 3rem;
+    text-align: center;
+}
+.card3 h4{
+    margin-top: 2rem;
+    text-align: center;
+}
+.card4 h1{
+    margin-top: 2rem;
+    font-size: 3rem;
+    text-align: center;
+}
+.card4 h4{
+    margin-top: 2rem;
+    text-align: center;
+}
+.card2{
+    margin-top: 45rem;
+    left: 60%;
+    width: 30rem;
+}
+.card3{
+    margin-top: 30rem;
+    width: 30rem;
+    left: 5rem;
+   
+}
+.card4{
+    margin-top: 35rem;
+    left: 60%;
+    width: 30rem;
+}
+.dealer{
+    width: 20rem;
+    height: 30rem;
+}
+.royal1{
+    background-color: black;
+    height: 110rem;
+}
+.royal{
+    background-color: white;
+    height: 95rem;
+    padding: 0 5rem 0 5rem;
+}
+.royal__row1{
+    padding: 2rem 0;
+    display: flex;
+    justify-content: space-evenly;
+}
+.royal__row2{
+    padding: 2rem 0;
+    display: flex;
+    justify-content: space-evenly;
+}
+.royal__heading h1{
+    padding: 3rem 0;
+    font-size: 5rem;
+    font-family: 'Playfair Display', serif;
+}
+.royal__heading p{
+    font-size: 1rem;
+    padding: 2rem 2rem;
+    font-family: 'Ubuntu', sans-serif;
+}
+.royal__left {
+    font-size: 2rem;
+    text-align: left;
+    font-family: 'Goldman', cursive;
+    
+    
+}
+.royal__grey {
+    color: #82888b;
+}
+.BUDGET{
+    height: 7rem;
+}
+.contact{
+    background-color: black;
+    height: 90rem;
+}
+.Contact{
+    background-color: white;
+    padding: 2rem 5rem;
+    height: 60rem;
+}
+.previous{
+    color: black;
+}
+.news h5{
+    color: black;
+}
+.news p{
+    color: black;
+}
+.classic{
+    background-color: black;
+    height: 35rem;
+}
+.classic__inner{
+    background-color: #f2f4c0;
+   height: 30rem;
+}
+.classic__main{
+    background-color: #e4e978;
+    height: 25rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+.classic__first img{
+    width: 20rem;
+    height: 18rem;
+    margin: 3rem 2rem;
+ 
+}
+.classic__second{
+    margin: 3rem 2rem;
+}
+.classic__second p{
+    text-align: center;
+    color: grey;
+
+}
+.classic__third {
+    margin: 3rem 1rem;
+}
+.classic__third p{
+    text-align: left;
+    color: grey;
+    
+}
+.classic__third__first{
+    margin-top: 3rem;
+}
+.classic__main2__second{
+    display: flex;
+    justify-content: space-evenly;
+}
+.name{
+    color: white;
+    font-size: 1rem;
+    padding-top: 1rem;
+}
+.corousel{
+    padding: 7% 7%;
+    text-align: center;
+    background-color: black;
+    color: #fff;
+}
+.corousel__head{
+    color: goldenrod;
+    font-size: 5rem;
+    text-align: center;
+
+    padding-bottom: 3rem;
+    font-family: 'Playfair Display', serif;
+}
+.corousel__text{
+    color: black;
+    font-weight: bolder;
+}
+.our{
+    background-color: black;
+    height: 90rem;
+}
+.our__dealer{
+    display: flex;
+    justify-content: space-evenly;
+}
+.our__list{
+    margin: 1rem;
+    padding: 3rem;
+    border: solid 3px white;
+    height: 20rem;
+}
+.our__list h2{
+  color: white;
+}
+.our__list p{
+    color: white;
+}

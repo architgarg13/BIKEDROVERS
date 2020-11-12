@@ -1,0 +1,19 @@
+.middle-content{
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.1)) , url("https://static.wixstatic.com/media/11062b_4a62e942a259472e86a6c491dbcb7b98~mv2_d_10000_6668_s_4_2.jpg/v1/fit/w_924,h_520/11062b_4a62e942a259472e86a6c491dbcb7b98~mv2_d_10000_6668_s_4_2.jpg");
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size: cover;
+    position: relative;
+    top: 5rem;
+    left: 4rem;
+    width: 75.3rem;
+    height: 40rem;
+}
+.display-1{
+    padding-top: 2rem;text-align:center;font-family: 'Oswald', sans-serif;color:black;
+    font-weight: 2rem;
+}
+.display-3{
+    font-family: 'Lora', serif;text-align:center;color:white; font-size: 3rem;
+    padding: 3rem 2rem 3rem 2rem; 
+}
